@@ -17,8 +17,8 @@ I'm passionate about leveraging data and technology to solve real-world problems
 ## ⚽ Personal Interests
 
 Outside of work, I’m passionate about sport, data storytelling, and interactive learning tools.
-- 🚴 **Cycling**: Exploring what makes Tadej Pogačar so dominant  
-- 🏏 **Cricket**: Investigating the trends in the Australian Test team. 
+- 🚴 **Cycling**: I am looking for data sets that can help to explain what makes Tadej Pogačar so great
+- 🏏 **Cricket**: I am investigating data sets that can explain the fortunes of the Australian Test team. 
 - 🎮 **Gaming/Game Dev**: Developing simple games to illustrate basic AI and NPC behavior
 
 I’ll be adding selected projects that reflect these interests — especially where data meets interactivity.
